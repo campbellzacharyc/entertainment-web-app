@@ -3,3 +3,25 @@ body {
 
 
 }
+
+.search {
+    display: inline-block;
+    font-family: Outfit;
+    font-style: Light;
+    font-size: 15px;
+    color: #C8C8C8;
+}
+
+.trending {
+    font-family: Outfit;
+    font-style: Light;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.recommended {
+    font-family: Outfit;
+    font-style: Light;
+    font-size: 32px;
+    color: #FFFFFF;
+}
